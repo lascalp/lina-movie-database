@@ -65,9 +65,16 @@ button{
 }
 
 .header{
-    padding-left: 500px;
+    padding: 5%;
 }
+
 a{
     color: white;
 }
 
+.movies{
+    font-family: 'Roboto Mono', monospace;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
